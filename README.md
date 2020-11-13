@@ -5,7 +5,7 @@
 
 * Ruby 2.6.1
 * Ruby on Rails 5.2.4
-* Postgresql 
+* Postgresql 12
 * Bootstrap 4.5.3
 
 ## Preview Login Screen
